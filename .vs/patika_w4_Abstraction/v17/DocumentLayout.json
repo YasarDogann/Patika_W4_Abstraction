@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_Abstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1DE78D-D20D-42D7-B34F-AD67F4BD207B}|patika_w4_Abstraction\\patika_w4_Abstraction.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week4\\patika_w4_abstraction\\patika_w4_abstraction\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1DE78D-D20D-42D7-B34F-AD67F4BD207B}|patika_w4_Abstraction\\patika_w4_Abstraction.csproj|solutionrelative:patika_w4_abstraction\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1DE78D-D20D-42D7-B34F-AD67F4BD207B}|patika_w4_Abstraction\\patika_w4_Abstraction.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week4\\patika_w4_abstraction\\patika_w4_abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1DE78D-D20D-42D7-B34F-AD67F4BD207B}|patika_w4_Abstraction\\patika_w4_Abstraction.csproj|solutionrelative:patika_w4_abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_Abstraction\\patika_w4_Abstraction\\Company.cs",
+              "RelativeDocumentMoniker": "patika_w4_Abstraction\\Company.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_Abstraction\\patika_w4_Abstraction\\Company.cs",
+              "RelativeToolTip": "patika_w4_Abstraction\\Company.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:28:14.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_Abstraction\\patika_w4_Abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "patika_w4_Abstraction\\Program.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_Abstraction\\patika_w4_Abstraction\\Program.cs",
+              "RelativeToolTip": "patika_w4_Abstraction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:25:06.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

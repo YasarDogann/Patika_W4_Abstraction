@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Abstraction\patika_w4_Abstraction\bin\Debug\net8.0\patika_w4_Abstraction.exe
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Abstraction\patika_w4_Abstraction\bin\Debug\net8.0\patika_w4_Abstraction.deps.json
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Abstraction\patika_w4_Abstraction\bin\Debug\net8.0\patika_w4_Abstraction.runtimeconfig.json
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Abstraction\patika_w4_Abstraction\bin\Debug\net8.0\patika_w4_Abstraction.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Abstraction\patika_w4_Abstraction\bin\Debug\net8.0\patika_w4_Abstraction.pdb
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Abstraction\patika_w4_Abstraction\obj\Debug\net8.0\patika_w4_Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Abstraction\patika_w4_Abstraction\obj\Debug\net8.0\patika_w4_Abstraction.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Abstraction\patika_w4_Abstraction\obj\Debug\net8.0\patika_w4_Abstraction.AssemblyInfo.cs
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Abstraction\patika_w4_Abstraction\obj\Debug\net8.0\patika_w4_Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Abstraction\patika_w4_Abstraction\obj\Debug\net8.0\patika_w4_Abstraction.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Abstraction\patika_w4_Abstraction\obj\Debug\net8.0\refint\patika_w4_Abstraction.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Abstraction\patika_w4_Abstraction\obj\Debug\net8.0\patika_w4_Abstraction.pdb
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Abstraction\patika_w4_Abstraction\obj\Debug\net8.0\patika_w4_Abstraction.genruntimeconfig.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Abstraction\patika_w4_Abstraction\obj\Debug\net8.0\ref\patika_w4_Abstraction.dll
